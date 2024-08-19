@@ -1,16 +1,13 @@
-## Hi there 👋
+## Olá 👋
 
-<!--
-**Mah3221/Mah3221** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- Meu nome é Maria 🖤
+- Estou estudando na [Alura](https://www.alura.com.br)
+- Utilizo esse espaço para minha organização e compartilhamento dos meu projetos desenvolvidos
+  
+ ### Contatos📫
+  
+  [@mariah32251](https://www.instagram.com/mariah32251)
+  
+  mariaheloisa31790@gmail.com
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  ![](https://media1.tenor.com/m/z4rrqqQVyI8AAAAC/demure-mindful.gif)
